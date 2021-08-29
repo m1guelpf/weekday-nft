@@ -1,0 +1,8 @@
+node_modules
+.env
+.secret
+
+#Hardhat files
+cache
+artifacts
+deployments
